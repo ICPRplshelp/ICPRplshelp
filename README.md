@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ICPRplshelp
+- 👋 Hi, I’m ICPR
 
 This profile contains all my projects so far.
 
