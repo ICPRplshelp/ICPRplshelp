@@ -9,7 +9,7 @@ How good I'm at, when it comes to programming languages. Anything below two squa
 ```
 Python: 🟦🟦🟦🟦🟦🟦🟦
 Java:   🟦🟦🟦🟦🟦
-JS/TS:  🟦🟦🟦🟦
+JS/TS:  🟦🟦🟦
 R:      🟦🟦🟦
 ```
 
