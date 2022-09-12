@@ -2,6 +2,11 @@
 
 This profile contains all my projects so far. The projects I've made speak for themselves.
 
+Check out the projects I've made so far:
+
+- [Timetable/Enrollment Tracker](https://icprplshelp.github.io/UofT-Enrollment-Tracker/)
+- [Timetable Prototype](https://icprplshelp.github.io/UofT-Timetable-Prototype-V2/)
+
 ## Skills
 
 How good I'm at, when it comes to programming languages. Anything below two squares is not displayed here.
