@@ -1,6 +1,6 @@
 # 👋 Hi, I’m ICPR
 
-This profile contains all my projects so far. The projects I've made speak for themselves.
+This profile contains all my projects so far. I try to make the projects on this page as pratically useful as possible, even to those without any programming experience. They speak for themselves.
 
 Check out the projects I've made so far:
 
@@ -14,7 +14,7 @@ How good I'm at, when it comes to programming languages. Anything below two squa
 ```
 Python: 🟦🟦🟦🟦🟦🟦🟦
 Java:   🟦🟦🟦🟦🟦
-JS/TS:  🟦🟦🟦
+JS/TS:  🟦🟦🟦🟦
 R:      🟦🟦🟦
 ```
 
