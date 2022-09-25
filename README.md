@@ -6,6 +6,7 @@ Check out the projects I've made so far:
 
 - [Timetable/Enrollment Tracker](https://icprplshelp.github.io/UofT-Enrollment-Tracker/)
 - [Timetable Prototype](https://icprplshelp.github.io/UofT-Timetable-Prototype-V2/)
+- [MY CLASS NOTES](https://github.com/ICPRplshelp/UofT-Notes/)
 
 ## Skills
 
