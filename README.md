@@ -1,4 +1,6 @@
-# 👋 Hi, I’m ICPR
+# 👋 Hi, I’m ICPR `(icpr)`
+
+My Github username is `icprplshelp`
 
 This profile contains all my projects so far. I try to make the projects on this page as pratically useful as possible, even to those without any programming experience. They speak for themselves.
 
