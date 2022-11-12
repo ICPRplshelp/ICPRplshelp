@@ -23,6 +23,12 @@ JS/TS:  🟦🟦🟦🟦🟦🟦
 
 I also like making [music](https://soundcloud.com/icpr).
 
+## Contact
+
+If you spot an issue in my code, please open an issue.
+
+If you would like to contact me for any other purpose, my Discord tag is `icpr#1510` (I don't intend on changing this).
+
 <!---
 ICPRplshelp/ICPRplshelp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
