@@ -21,8 +21,6 @@ Java:   🟦🟦🟦🟦🟦
 JS/TS:  🟦🟦🟦🟦🟦🟦
 ```
 
-I also like making [music](https://soundcloud.com/icpr).
-
 ## Contact
 
 If you spot an issue in my code, please open an issue.
