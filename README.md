@@ -1,6 +1,6 @@
 # 👋 Hi
 
-Hello, I'm a second-year UofT undergraduate student studying computer science.
+Hello, I'm a third-year UofT undergraduate student studying computer science.
 
 This profile contains all my projects so far. I try to make the projects on this page as pratically useful as possible, even to those without any programming experience. They speak for themselves.
 
