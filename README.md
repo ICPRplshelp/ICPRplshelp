@@ -10,6 +10,8 @@ Quick links to the projects I've made:
 - [UofT-Exam](https://icprplshelp.github.io/UofT-Exam/) — Schedules UofT exams for you given the courses you're taking (No longer updating as UofT made exam schedules private)
 - [MS Word Pandoc Filters](https://github.com/ICPRplshelp/MS-Word-Pandoc-Filters) — Pandoc Filters built specifically for giving MS Word the same power as Markdown
 
+- [Extra utility notes](https://github.com/icprplshelp/extra-notes) — Markdown documents I've written on Linux and SSH tools that are easy to forget
+
 ## Contact
 
 If you spot an issue in my code, please open an issue.
