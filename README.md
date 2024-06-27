@@ -16,8 +16,6 @@ Quick links to the projects I've made:
 
 If you spot an issue in my code, please open an issue.
 
-If you would like to contact me for any other purpose, my Discord username is `icpr`.
-
 <!---
 ICPRplshelp/ICPRplshelp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
