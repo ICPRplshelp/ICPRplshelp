@@ -2,8 +2,8 @@
 
 Quick links to the projects I've made:
 
+- [Timetable Tracker (most popular!)](https://icprplshelp.github.io/UofT-Enrollment-Tracker/) — Displays enrollment trends for all UofT courses
 - [Timetable Prototype](https://icprplshelp.github.io/UofT-Timetable-Prototype-V2/) — Displays all UofT courses
-- [Timetable Tracker](https://icprplshelp.github.io/UofT-Enrollment-Tracker/) — Displays enrollment trends for all UofT courses
 - [TextAmender](https://icprplshelp.github.io/text-amender-v2/) — Text filters I've created
 
 - [MY CLASS NOTES](https://github.com/ICPRplshelp/UofT-Notes/) — Notes I've taken
