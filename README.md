@@ -1,8 +1,8 @@
 # Projects I've made
 
-Quick links to the projects I've made:
+I've made projects, and you can use them. They're not just "side" projects I just did for learning - they all have practical uses. Quick links to the projects I've made:
 
-- [Timetable Tracker (most popular!)](https://icprplshelp.github.io/UofT-Enrollment-Tracker/) — Displays enrollment trends for all UofT courses
+- [Timetable Tracker (most popular! no really, I hear from students that use them)](https://icprplshelp.github.io/UofT-Enrollment-Tracker/) — Displays enrollment trends for all UofT courses
 - [Timetable Prototype](https://icprplshelp.github.io/UofT-Timetable-Prototype-V2/) — Displays all UofT courses
 - [TextAmender](https://icprplshelp.github.io/text-amender-v2/) — Text filters I've created
 
